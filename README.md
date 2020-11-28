@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mgpocky&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mgpocky&show_icons=true)  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkm1447)](https://solved.ac/kkm1447)
