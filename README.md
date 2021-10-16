@@ -1,5 +1,3 @@
-### MGPOCKY
-
 Career
 =
 - 2019.03 ~ Bachelor of Computer Science
