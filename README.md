@@ -14,8 +14,10 @@ Languages
 
 Skills
 =
-- React native, React
-- Firebase server (NodeJS)
+- React
+- React native
+- GraphQL
+- Firebase server (Node,JS)
 - Algorithm (Java)
 
 
