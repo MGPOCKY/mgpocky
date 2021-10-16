@@ -1,11 +1,22 @@
 ### MGPOCKY
 
-Interest
+Career
 =
-- React
+- 2019.03 ~ Bachelor of Computer Science
+- 2021.01 ~ Software Engineer in [Hayanmind](https://github.com/hayanmind)
+
+Languages
+=
+- Typescript
 - Java
-- Algorithm
-  - [Solved.ac](https://solved.ac/kkm1447)
+
+<figure><img src="https://wakatime.com/share/@6fe7a46c-110c-45a2-9fbe-439cd489eea5/775d7c0f-4e8b-4f49-a8af-65703917e9d7.svg"></img></figure>
+
+Skills
+=
+- React native, React
+- Firebase server (NodeJS)
+- Algorithm (Java)
 
 
 <!--
@@ -24,5 +35,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mgpocky&show_icons=true)  
+
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkm1447)](https://solved.ac/kkm1447)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mgpocky&show_icons=true)
