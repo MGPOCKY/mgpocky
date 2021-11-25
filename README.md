@@ -15,7 +15,7 @@ Skills
 - React
 - React native
 - GraphQL
-- Firebase server (Node,JS)
+- Firebase server (NodeJS)
 - Algorithm (Java)
 
 
