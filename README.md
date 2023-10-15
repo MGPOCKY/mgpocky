@@ -1,7 +1,7 @@
 Career
 =
 - 2019.03 ~ Bachelor of Computer Science
-- 2021.01 ~ Software Engineer in [Hayanmind](https://github.com/hayanmind)
+- 2021.01 ~ 2023.10 Software Engineer in [Hayanmind](https://github.com/hayanmind)
 
 Languages
 =
