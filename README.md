@@ -14,10 +14,8 @@ Skills
 =
 - React
 - React native
-- GraphQL
-- Firebase server (NodeJS)
-- Algorithm (Java)
-
+- TypeScript
+- Python
 
 <!--
 **MGPOCKY/mgpocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
