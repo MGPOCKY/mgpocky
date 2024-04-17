@@ -6,6 +6,7 @@ Career
 Languages
 =
 - Typescript
+- Python
 - Java
 
 <figure><img src="https://wakatime.com/share/@6fe7a46c-110c-45a2-9fbe-439cd489eea5/775d7c0f-4e8b-4f49-a8af-65703917e9d7.svg"></img></figure>
@@ -14,9 +15,6 @@ Skills
 =
 - React
 - React native
-- TypeScript
-- Python
-
 <!--
 **MGPOCKY/mgpocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
